@@ -4,7 +4,9 @@
 
 		为时代打补丁 —— 大萌 2019
 
-　　网站是有关部门信息公开的法定渠道之一，但由于各种原因，某些服务网站存在缺失、错误、重复的情况，本项目旨在记录这些Bug，以利于[数字中国](https://szzg.gov.cn/)及[法治政府](http://www.gov.cn/zhengce/2021-08/11/content_5630802.htm)的建设。
+　　网站是有关部门信息公开的法定渠道之一，但由于超链接的‘单向特性’，网站中容易出现错误、过期的连接；同时，在[数字中国](https://szzg.gov.cn/)及[法治政府](http://www.gov.cn/zhengce/2021-08/11/content_5630802.htm)的建设中，某些服务内容存在缺失、重复的情况。
+
+　　cqcc项目记录大萌在制作‘[集成网页](https://diamonwoo.github.io/LSIP)’(LSIP)过程中，发现的这类网站Bug，以利于官方修复。
 
 
 cqcc日志(↓)
@@ -20,7 +22,7 @@ cqcc日志(↓)
 服务网站汇总
 ------------
 
-《[有关部门服务网](https://Laosheng.top/fuwu)》，包括：  
+大萌制作的集成网页《[有关部门服务网](https://Laosheng.top/fuwu)》，包括：  
 *	中央有关部门集
 *	法治政府有关部门
 *	中国千县地名网
@@ -30,4 +32,3 @@ Alpha
 
 
 <https://diamonwoo.github.io/cqcc>
-
