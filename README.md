@@ -1,6 +1,5 @@
-为人民服务网站查缺查重
+服务网站查缺查重
 ================
-<https://diamonwoo.github.io/cqcc> 
 
 		为时代找Bug —— 大萌 2019
 
@@ -27,6 +26,5 @@ cqcc日志(↓)
 
 
 Alpha
-
 
 <https://diamonwoo.github.io/cqcc>
